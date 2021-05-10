@@ -89,7 +89,7 @@ def whatiTSay(index):
     print(Y_train[index])
     return decode_review
 
-decoded_review = whatiTSay(15)
+#decoded_review = whatiTSay(15)
 
 
 
